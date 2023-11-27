@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 67565a0fcbf417c7c13682898c0790dace03f9b1
 # Apuntes de SQL
 
 Este repositorio contiene información detallada sobre consultas SQL, el manejo de bases de datos y los scripts utilizados en los ejercicios prácticos.
@@ -21,4 +24,7 @@ Accede a los scripts utilizados en los ejercicios:
 
 1. [Script de Trabajadores]
 2. [Script de TendaBD]
+<<<<<<< HEAD
 
+=======
+>>>>>>> 67565a0fcbf417c7c13682898c0790dace03f9b1
